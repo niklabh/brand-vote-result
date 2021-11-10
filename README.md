@@ -1,2 +1,4 @@
 # brand-vote-result
-Brand vote results
+Brand vote results for https://vote.polkadot.network/
+
+
