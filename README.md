@@ -3,8 +3,8 @@
 Brand vote results for https://vote.polkadot.network/
 ---
 
-Logo A: **82%**
-Logo B: **18%**
+Logo A: **81%**
+Logo B: **19%**
 
 Identity A: **43%**
 Identity B: **57%**
